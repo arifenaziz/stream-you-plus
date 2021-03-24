@@ -52,7 +52,7 @@ const VideoPlace = ({video_id,data,usedispatch,isAuthenticated,Actions}) => {
 <div className="single-video">
 
 <ReactPlayer
-playing={false} 
+playing={true} 
 controls={true} 
 url={video_url} 
 width="100%"
