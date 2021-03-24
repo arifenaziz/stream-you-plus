@@ -1,0 +1,12 @@
+.Error{
+    color: #f90404;
+}
+
+.Success{
+    color: rgb(251 251 251);
+    margin-top: 20px;
+    font-size: 16px;
+    background: #53af42;
+    padding: 2px 10px;
+    text-align: center;
+}
